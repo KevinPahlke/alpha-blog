@@ -22,7 +22,7 @@ $navbar-default-bg: #08088A;
 }
 
 .jumbotron {
-    background-image: asset-url('woman.jpg');
+    background-image: asset-url('#');//kann auch ein bild eingefüggt werden
     background-size: cover;
     height: 558px;
 }
